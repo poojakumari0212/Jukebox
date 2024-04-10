@@ -1,0 +1,17 @@
+[
+    {
+        "id": "101",
+        "name": "Lata Mangeshkar",
+        "musician_type": "Vocalist"
+    },
+    {
+        "id": "102",
+        "name": "Shaan",
+        "musician_type": "Vocalist"
+    },
+    {
+        "id": "103",
+        "name": "Shankar Mahadevan",
+        "musician_type": "Instrumentalist"
+    }
+]

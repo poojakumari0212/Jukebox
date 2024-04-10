@@ -1,0 +1,29 @@
+[
+    {
+        "id": "001",
+        "name": "Album 1",
+        "date_of_release": "2024-01-01",
+        "genre": "Rock",
+        "price": 200,
+        "description": "This is the first album",
+        "musicians": ["103"]
+    },
+    {
+        "id": "002",
+        "name": "Album 2",
+        "date_of_release": "2024-03-15",
+        "genre": "Classic",
+        "price": 150,
+        "description": "This is the second album",
+        "musicians": ["101"]
+    },
+    {
+        "id": "003",
+        "name": "Album 3",
+        "date_of_release": "2023-11-20",
+        "genre": "Romantic",
+        "price": 300,
+        "description": "This is the third album",
+        "musicians": ["102"]
+    }
+]
